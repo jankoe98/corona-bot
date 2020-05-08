@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="609d08ef-adf4-4673-b471-4fbba59200d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE8SF9lomvtm7LhL0uHAf4QnGg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unirest-java-3.7.01.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\janni\IdeaProjects\TelegramCoronaBot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TelegramCoronaBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609d08ef-adf4-4673-b471-4fbba59200d3" name="Default Changelist" comment="" />
+      <created>1586289390606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586289390606</updated>
+      <workItem from="1586289396765" duration="25736000" />
+      <workItem from="1586436986741" duration="1103000" />
+      <workItem from="1586688583732" duration="12269000" />
+      <workItem from="1588767873690" duration="81000" />
+      <workItem from="1588933456247" duration="2644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1586293477102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586293477102" />
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1586290012380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586290012380" />
+    <state x="348" y="82" key="FileChooserDialogImpl" timestamp="1586293474154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586293474154" />
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom" timestamp="1588943234481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588943234481" />
+    <state width="1237" height="142" key="GridCell.Tab.0.center" timestamp="1588943234481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588943234481" />
+    <state width="1237" height="142" key="GridCell.Tab.0.left" timestamp="1588943234481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588943234481" />
+    <state width="1237" height="142" key="GridCell.Tab.0.right" timestamp="1588943234481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588943234481" />
+    <state width="1237" height="338" key="GridCell.Tab.1.bottom" timestamp="1586388194502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="338" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586388194502" />
+    <state width="1237" height="338" key="GridCell.Tab.1.center" timestamp="1586388194502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="338" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586388194502" />
+    <state width="1237" height="338" key="GridCell.Tab.1.left" timestamp="1586388194502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="338" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586388194502" />
+    <state width="1237" height="338" key="GridCell.Tab.1.right" timestamp="1586388194502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="338" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586388194502" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586293325369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586293325369" />
+    <state x="314" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588933486072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588933486072" />
+    <state x="375" y="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586293462081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1586293462081" />
+    <state x="91" y="0" key="new project wizard" timestamp="1588767952725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588767952725" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586385440500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586385440500" />
+  </component>
+</project>
