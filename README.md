@@ -6,6 +6,7 @@ You can just type in "Germany" or "united-states" or even "Bayern"(which is a st
 I used the Telegram API of rubenlagus, which can be found here: https://github.com/rubenlagus/TelegramBots
 
 My numbers come from:
+
 https://covid19-germany.appspot.com/
 
 https://api.covid19api.com/
