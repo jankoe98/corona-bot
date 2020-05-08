@@ -137,7 +137,7 @@ public class CoronaBot extends TelegramLongPollingBot {
             while ((inputLine = in.readLine()) != null) {
                 response.append(inputLine);
             }
-            System.out.println(response);
+            //System.out.println(response);
             in.close();
             int index = response.toString().indexOf("totalCases");
             String now = response.substring(index);
@@ -174,7 +174,7 @@ public class CoronaBot extends TelegramLongPollingBot {
                 while ((inputLine = in.readLine()) != null) {
                     response.append(inputLine);
                 }
-                System.out.println(response);
+                //System.out.println(response);
                 in.close();
                 int index = response.toString().lastIndexOf("{");
                 String now = response.substring(index);
@@ -210,7 +210,7 @@ public class CoronaBot extends TelegramLongPollingBot {
             while ((inputLine = in.readLine()) != null) {
                 response.append(inputLine);
             }
-            System.out.println(response);
+            //System.out.println(response);
             in.close();
             int index = response.toString().lastIndexOf("]")-5;
             String now = response.substring(0, index);
