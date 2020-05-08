@@ -7,5 +7,7 @@ I used the Telegram API of rubenlagus, which can be found here: https://github.c
 
 My numbers come from:
 https://covid19-germany.appspot.com/
+
 https://api.covid19api.com/
+
 https://api.apify.com/v2/key-value-stores/moxA3Q0aZh5LosewB/records/LATEST?disableRedirect=true
